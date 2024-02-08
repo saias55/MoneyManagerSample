@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.main-container {
+  padding: 60px;
+}
+
+.items-in-row {
+  display: flex;
+}
+
+.margion-left {
+  margin-left: 40px;
+}
